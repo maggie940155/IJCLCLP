@@ -10,5 +10,5 @@ Ching-Wen Hsu, Hsuan Liu, and Jheng-Long Wu
 
 This paper propose a classifier using machine learning and BERT to detect YouTuber preferences, video preferences, and excitement levels automatically. In order to improve performance, we use a dataset of YouTuber embeddings that was pre-trained using approximately 175,000 videos' comments that contained YouTubers' names.
 
-[Paper Submission Version](https://github.com/maggie940155/ROCLING-2021)
+[Paper Submission Version](https://github.com/maggie940155/IJCLCLP/blob/80de9fd99115dfbee2fcefc2f78f46dcaeef5dcf/IJCLCLP_paper.pdf)
 
